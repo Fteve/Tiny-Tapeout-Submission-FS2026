@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This project works the same as the "logo" example in the VGA Playground. The image of the fox bounces around the screen.
+This project works the same as the "logo" example in the VGA Playground. The image of the fish bounces around the screen.
 
 ## How to test
 
