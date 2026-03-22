@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project works the same as the "logo" example in the VGA Playground. The image of the fox bounces around the screen.
 
 ## How to test
 
-Explain how to use your project
+To test this project, connect the chip to a screen with a VGA connection, and load this project.
 
 ## External hardware
 
