@@ -14,7 +14,7 @@ module bitmap_rom (
 
   reg [7:0] mem[2047:0];
   initial begin
-        mem[0] = 8'h00;
+    mem[0] = 8'h00;
     mem[1] = 8'h00;
     mem[2] = 8'h00;
     mem[3] = 8'h00;
